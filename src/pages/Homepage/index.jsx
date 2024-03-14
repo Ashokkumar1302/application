@@ -287,7 +287,7 @@ export default function HomepagePage() {
             <div className="flex flex-row md:flex-col justify-between items-center w-full md:gap-10">
               <div className="flex flex-col items-start justify-start w-[70%] md:w-full gap-1">
                 <div className="flex flex-row sm:flex-col justify-between items-start w-full sm:gap-10">
-                  <Img src="images/img_group_642_red_400.svg" alt="image_four" className="h-[50px]" />
+                  <Img src="images/download.jpeg" alt="image_four" className="h-[50px]" />
                   <div className="flex flex-row justify-between items-center w-[47%] sm:w-full mt-[25px] sm:mt-0">
                     <div className="flex flex-col items-center justify-start w-[29%]">
                       <div className="flex flex-col items-start justify-start w-full">
